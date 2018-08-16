@@ -36,4 +36,4 @@ Die Erweiterungen suchen und installieren.
 
 #### Konfiguration
 
-Im Menü `File -> Preferences -> Settings` (`Ctrl`-`,`) nach `enableScriptExecution` suchen, und den Wert der Einstellung auf `true` setzen .
+Im Menü `File -> Preferences -> Settings` (`Ctrl`-`,`) nach `enableScriptExecution` suchen, und den Wert der Einstellung auf `true` setzen.
